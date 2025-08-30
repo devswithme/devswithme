@@ -1,6 +1,6 @@
-# Hi, I'm Nathan!
-**🏠 Portfolio website** [www.nathanl.my.id](www.nathanl.my.id)
-**📦 SaaS startup** [www.fysite.id](www.fysite.id)
+# Hi, I'm Nathan! 👋
+**🏠 Portfolio website** [www.nathanl.my.id](https://nathanl.my.id)
+**📦 SaaS startup** [www.fysite.id](https://fysite.id)
 
 ### What have I been doing lately?
 -   🚀 Solving real-world problems with meaningful impact
