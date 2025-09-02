@@ -1,10 +1,10 @@
 # Hi, I'm Nathan! 👋
 - **🏠 Portfolio website** [www.nathanl.my.id](https://nathanl.my.id)
 - **📦 SaaS startup** [www.fysite.id](https://fysite.id)
-- **🚀 Non-profit Community** [www.fydemy.com](https://fydemy.com)
+- **🚀 Non-profit community** [www.fydemy.com](https://fydemy.com)
 
 ### What have I been doing lately?
--   🚀 Solving real-world problems with meaningful impact
+-   💡 Solving real-world problems with meaningful impact
 -   💻 Building scalable modern web apps
 -   🌱 Contributing to open-source, startups, and communities
 
